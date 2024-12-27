@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCG Migration\DelphiProject\DMUnit.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCG Migration\DelphiProject\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.918,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCG Migration\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.896,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project3.dproj=F:\Projects\DSCG Migration\DelphiProject\DSCGMigration.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.444,C:\Users\user\Documents\Embarcadero\Studio\Projects\MainUnit.dfm=F:\Projects\DSCG Migration\DelphiProject\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.557,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCG Migration\DelphiProject\DMUnit.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\DSCG Migration\DelphiProject\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.444,C:\Users\user\Documents\Embarcadero\Studio\Projects\MainUnit.pas=F:\Projects\DSCG Migration\DelphiProject\MainUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
